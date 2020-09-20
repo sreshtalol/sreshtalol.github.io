@@ -1,0 +1,27 @@
+.bio{
+    width: 100rem;
+    height:55rem;
+    position: absolute;
+    top:10rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    border-style:ridge;
+    border-width:0.1rem;
+    border-color:black;
+    border-radius:1rem;
+
+}
+.edu{
+    width: 100rem;
+    height: 25rem;
+    position: absolute;
+    top:70rem;
+    left:25rem;
+    padding-left:1rem;
+    padding-right: 1rem;
+    border-style:ridge;
+    border-width:0.1rem;
+    border-color:black;
+    border-radius:1rem;
+}
